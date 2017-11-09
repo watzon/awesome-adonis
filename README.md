@@ -1,4 +1,4 @@
-# Awesome Laravel [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/chiraggude/awesome-adonis/master.svg?style=flat)](https://travis-ci.org/watzon/awesome-adonis)
+# Awesome Adonis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/chiraggude/awesome-adonis/master.svg?style=flat)](https://travis-ci.org/watzon/awesome-adonis)
 
 > A curated list of awesome bookmarks, packages, tutorials, and resources for AdonisJs.
 
@@ -33,11 +33,11 @@ Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-l
 
 ##### Authentication & Authorization
 
-* [Bouncer](https://github.com/JosephSilber/bouncer) - Roles & Permissions
+* 
 
 ##### Utilities
 
-* [Artisan View](https://github.com/svenluijten/artisan-view) - Manage the views in Laravel projects via artisan.
+* 
 
 ##### Databases, ORMs, Migrations & Seeding
 
